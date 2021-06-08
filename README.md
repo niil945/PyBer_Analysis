@@ -40,6 +40,7 @@ The analysis of the dataset show:
     - Average Fare by Driver: $16.57
 
 [City Type Summary](Resources/summary.PNG)
+
 [Total Fare by City Type Plot](Total_Fare_by_City_Type.png)
 
 The differences in city type show that:
