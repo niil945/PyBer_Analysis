@@ -58,6 +58,3 @@ There are two indicators of PyBer service being impacted by a lack of drivers. T
 Consequently, the fare dropping by driver dramatically in urban areas with more drivers than total rides might be part of the solution by incentivizing urban drivers to target nearby suburban and rural areas for service, which could have the beneficial impact of lightening the service load on drivers in those areas while improving the fares of drivers working outside of their immediate area.
 
 Additional studies of populations, travel time, and fares may be insightful to assess a target number of drivers for the different areas and how service usage varies to maximize service usage and utilization of drivers.
-
-
-resulting in potentially untapped customer base due to service limitations from a lack of drivers.  that also result in higher individual fares that may also push away consumers. have an The limitation of drivers and consequently higher fares may result in less people utilizing PyBer in rural areas than would otherwise PyBer, particularly in light of the . Performing further analysis on city population versus drivers may provide insight on a target number of drivers for each area to maximize utilization of PyBer services and a pricepoint which would result in an in
