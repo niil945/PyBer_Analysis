@@ -41,7 +41,7 @@ The analysis of the dataset show:
 
 [City Type Summary](Resources/summary.PNG)
 
-[Total Fare by City Type Plot](Total_Fare_by_City_Type.png)
+[Total Fare by City Type Plot](analysis/Total_Fare_by_City_Type.png)
 
 The differences in city type show that:
   - There are 5 times more rides taken in Suburban areas and 13 times more rides taken in Urban areas relative to Rural areas.
